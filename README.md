@@ -2,7 +2,7 @@
 
 ## Zadanie
 
-Na stronie https://dane.gov.pl/dataset/1567/resource/17363 można znaleźć dane dotyczące liczby osób, które przystąpiły oraz zdały maturę w latach 2010-2018 z uwzględnieniem podziału na województwo oraz płeć.
+Na stronie https://dane.gov.pl/en/dataset/1946/resource/35560 można znaleźć dane dotyczące liczby osób, które przystąpiły oraz zdały maturę w latach 2010-2019 z uwzględnieniem podziału na województwo oraz płeć.
 
 Zadanie polega na napisaniu skryptu, który umożliwiłby przeanalizowanie danych i znalezienie odpowiedzi na następujące pytania:
 
