@@ -6,6 +6,10 @@ Arkusz pomocniczy w Google Sheets:
 
 https://docs.google.com/spreadsheets/d/1ksRYtgapnIE7pOs5OBjk4zFUOndT3p_IUjXWV9rM5BI
 
+Plik w formacie CSV:
+
+https://docs.google.com/spreadsheets/d/e/2PACX-1vT8rjDwUmmIprIHEJbi1bRN9w83ULhrdtlHoHK7gYkJvdTnJi8smXhrCbTsxc4Sh8iKbDC2kivkKTyI/pub?gid=0&single=true&output=csv
+
 Quickstart:
 
 https://developers.google.com/sheets/api/quickstart/python
