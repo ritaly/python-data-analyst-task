@@ -30,5 +30,8 @@ Integracja z Google Sheets:
 
 Pliki odpowiedzialne za to zadanie znajduję się w folderze: POSTGRES_SQL_HEROKU
 
+Na podstawie tutoriala:
+
+https://towardsdatascience.com/how-to-build-a-relational-database-from-csv-files-using-python-and-heroku-20ea89a55c63?gi=29ed887411cc
 <hr>
 
