@@ -39,5 +39,7 @@ Pliki odpowiedzialne za to zadanie znajduję się w folderze: POSTGRES_SQL_HEROK
 Na podstawie tutoriala:
 
 https://towardsdatascience.com/how-to-build-a-relational-database-from-csv-files-using-python-and-heroku-20ea89a55c63?gi=29ed887411cc
+
+Następnie możemy przetestować tak utworzoną bazę danych i odczytać ją w całości za pomocą pliku read_database.py.
 <hr>
 
