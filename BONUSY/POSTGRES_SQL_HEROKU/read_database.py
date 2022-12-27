@@ -1,5 +1,4 @@
 import psycopg2
-import os
 
 
 db_connection = psycopg2.connect(
