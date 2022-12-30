@@ -44,6 +44,10 @@ Następnie możemy przetestować tak utworzoną bazę danych i odczytać ją w c
 <br>
 ## WNIOSEK 1
 
-Aby uzsykać miarodajny wynik do analizy zdawalności matur w Polsce - musimy wprowadzić przelicznik dla osób na 10000 z danej populacji dla województw.
+Aby uzsykać miarodajne wyniki do analizy i porównania zdawalności matur w Polsce pomiędzy poszczególnymi województwami - musimy wprowadzić przelicznik dla osób na 10000 z danej populacji dla województw.
+
+Pomocniczy wykres punktowy do analizy danych na tym etapie:
+
+https://scv2pl.github.io/Dash-Plotly_PDSDAT_PL.html
 <hr>
 
