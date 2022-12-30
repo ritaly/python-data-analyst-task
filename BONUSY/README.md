@@ -41,5 +41,9 @@ Na podstawie tutoriala:
 https://towardsdatascience.com/how-to-build-a-relational-database-from-csv-files-using-python-and-heroku-20ea89a55c63?gi=29ed887411cc
 
 Następnie możemy przetestować tak utworzoną bazę danych i odczytać ją w całości za pomocą pliku read_database.py.
+<br>
+## WNIOSEK 1
+
+Aby uzsykać miarodajny wynik do analizy zdawalności matur w Polsce - musimy wprowadzić przelicznik dla osób na 10000 z danej populacji dla województw.
 <hr>
 
