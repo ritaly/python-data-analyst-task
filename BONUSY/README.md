@@ -42,12 +42,29 @@ https://towardsdatascience.com/how-to-build-a-relational-database-from-csv-files
 
 Następnie możemy przetestować tak utworzoną bazę danych i odczytać ją w całości za pomocą pliku read_database.py.
 <br>
-## WNIOSEK 1
+## WNIOSKI
 
-Aby uzsykać miarodajne wyniki do analizy i porównania zdawalności matur w Polsce pomiędzy poszczególnymi województwami - musimy wprowadzić przelicznik dla osób na 10000 z danej populacji dla województw.
+Aby uzsykać miarodajne wyniki do analizy i porównania zdawalności matur w Polsce pomiędzy poszczególnymi województwami - musimy wprowadzić przelicznik na 10000 mieszkańców z danej populacji dla województw.
 
 Pomocniczy wykres punktowy do analizy danych na tym etapie:
 
 https://scv2pl.github.io/Dash-Plotly_PDSDAT_PL.html
+
+Pomocniczy wykres punktowy "Liczba osób, które przystąpiły oraz zdały maturę w latach 2010-2022 w Polsce w przeliczeniu na 10000 mieszkańców z populacji dla danego województwa.":
+
+https://scv2pl.github.io/Dash-Plotly_PDSDAT_+Population_10000_PL.html
+
+Jest to wstępny wykres, gdyż przydałoby się pozyskać dane populacji dla województw - dla każdego roku z osobna. Dane populacji które użyłem do tego wykresu są średnią z roku 2010 i 2021 - reprezentuje ona wartość dla każdego roku na wykresie. Prezentowana "Wartość/10000" jest przelicznikiem na 10000 mieszkańców z populacji dla danego województwa. Przeprowadziłem taki zabieg w celach: czysto - porównawczych, gdyż większe populacje z założenia mają większe liczby przystępujących do matur niż mniejsze populacje. Oś x wykresu reprezentowana jest przez populacje dla danego województwa i również jest średnią z roku 2010 i 2021 - reprezentuje ona wartość dla każdego roku na wykresie. Pzeprowadziłem taki zabieg - aby rozciągnąć dane dla województw na wykresie, od najmniejszej populacji do największej.  
+
+Pomocniczy wykres punktowy "Procent osób które zdały maturę w latach 2010-2022 w Polsce":
+
+https://scv2pl.github.io/Dash-Plotly_PDSDAT_+Population_PL.html
+
+Kolejnym etapem który sobie założyłem - jest przygotowanie plików Python-a, które będę generowały dane CSV dla tych wykresów automatycznie za pomocą zapytań SQL do bazy danych Heroku Postgres SQL. Gdyż obecne wykresy reprezentują dane CSV z arkuszy "Google Sheet":
+
+https://docs.google.com/spreadsheets/d/1ksRYtgapnIE7pOs5OBjk4zFUOndT3p_IUjXWV9rM5BI/edit#gid=0 ,
+
+aby przeprowadzić wstępną analizę wyżej opisanych przypadków.
+
 <hr>
 
