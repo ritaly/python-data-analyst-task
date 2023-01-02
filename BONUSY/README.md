@@ -40,7 +40,7 @@ Na podstawie tutoriala:
 
 https://towardsdatascience.com/how-to-build-a-relational-database-from-csv-files-using-python-and-heroku-20ea89a55c63?gi=29ed887411cc
 
-Następnie możemy przetestować tak utworzoną bazę danych i odczytać ją w całości za pomocą pliku read_database.py.
+Następnie możemy przetestować tak utworzoną bazę danych i odczytać ją w całości za pomocą pliku: read_database.py.
 <br>
 ## WNIOSKI
 
@@ -60,7 +60,7 @@ Pomocniczy wykres punktowy "Procent osób które zdały maturę w latach 2010-20
 
 https://scv2pl.github.io/Dash-Plotly_PDSDAT_+Population_PL.html
 
-Kolejnym etapem który sobie założyłem - jest przygotowanie plików Python-a, które będę generowały dane CSV dla tych wykresów automatycznie za pomocą zapytań SQL do bazy danych Heroku Postgres SQL. Gdyż obecne wykresy reprezentują dane CSV z arkuszy "Google Sheet":
+Kolejnym etapem, który sobie założyłem - jest przygotowanie plików Python-a, które będę generowały dane CSV dla tych wykresów automatycznie za pomocą zapytań SQL do bazy danych Heroku Postgres SQL. Gdyż obecne wykresy reprezentują dane CSV z arkuszy "Google Sheet":
 
 https://docs.google.com/spreadsheets/d/1ksRYtgapnIE7pOs5OBjk4zFUOndT3p_IUjXWV9rM5BI/edit#gid=0 ,
 
