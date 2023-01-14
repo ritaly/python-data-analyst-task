@@ -6,10 +6,6 @@ Arkusz pomocniczy w Google Sheets:
 
 https://docs.google.com/spreadsheets/d/1ksRYtgapnIE7pOs5OBjk4zFUOndT3p_IUjXWV9rM5BI/edit#gid=1256508534
 
-Plik w formacie CSV:
-
-https://docs.google.com/spreadsheets/d/e/2PACX-1vT8rjDwUmmIprIHEJbi1bRN9w83ULhrdtlHoHK7gYkJvdTnJi8smXhrCbTsxc4Sh8iKbDC2kivkKTyI/pub?gid=0&single=true&output=csv
-
 Quickstart:
 
 https://developers.google.com/sheets/api/quickstart/python
@@ -20,19 +16,19 @@ Plik odpowiedzialny za to zadanie: import_csv_data_from_api.py
 
 Link do bazy danych:
 
-https://data.heroku.com/dataclips/eqxbztkzhrxglwwandwdezjnyphf
+https://data.heroku.com/dataclips/fiburrxvknidkjuydveonyosgmeb
 
 Plik w formacie CSV:
 
-https://data.heroku.com/dataclips/eqxbztkzhrxglwwandwdezjnyphf.csv
+https://data.heroku.com/dataclips/fiburrxvknidkjuydveonyosgmeb.csv
 
 Plik w formacie JSON:
 
-https://data.heroku.com/dataclips/eqxbztkzhrxglwwandwdezjnyphf.json
+https://data.heroku.com/dataclips/fiburrxvknidkjuydveonyosgmeb.json
 
 Integracja z Google Sheets:
 
-=IMPORTDATA("https://data.heroku.com/dataclips/eqxbztkzhrxglwwandwdezjnyphf.csv")
+=IMPORTDATA("https://data.heroku.com/dataclips/fiburrxvknidkjuydveonyosgmeb.csv")
 
 Pliki odpowiedzialne za to zadanie znajduję się w folderze: POSTGRES_SQL_HEROKU
 
