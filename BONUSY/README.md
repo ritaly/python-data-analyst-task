@@ -4,7 +4,7 @@
 
 Arkusz pomocniczy w Google Sheets:
 
-https://docs.google.com/spreadsheets/d/1ksRYtgapnIE7pOs5OBjk4zFUOndT3p_IUjXWV9rM5BI
+https://docs.google.com/spreadsheets/d/1ksRYtgapnIE7pOs5OBjk4zFUOndT3p_IUjXWV9rM5BI/edit#gid=1256508534
 
 Plik w formacie CSV:
 
